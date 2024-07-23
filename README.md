@@ -1,16 +1,4 @@
 # fspark_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-07-21 201938](https://github.com/user-attachments/assets/2599316f-55e3-47c9-9406-fb1459c23804)
+![Screenshot 2024-07-22 192619](https://github.com/user-attachments/assets/ab998818-7cd8-4f80-9e56-c194614c57c5)
