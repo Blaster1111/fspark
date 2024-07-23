@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fspark_task/constants/colors.dart';
-import 'package:fspark_task/model/message.model.dart';
+import 'package:fspark_task/screens/chat_screen.dart';
 import 'package:fspark_task/screens/home_screen.dart';
 import 'package:fspark_task/screens/profile_screen.dart';
 import 'package:fspark_task/screens/statistics_screen.dart';

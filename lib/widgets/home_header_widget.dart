@@ -25,7 +25,7 @@ class HomeHeaderWidget extends StatelessWidget {
                   "Stay healthy",
                   style: TextStyle(
                     color: grey,
-                    fontSize: 14.0,
+                    fontSize: 12.0,
                     fontWeight: FontWeight.w400,
                   ),
                 ),
@@ -33,7 +33,7 @@ class HomeHeaderWidget extends StatelessWidget {
                   "Gyu Hawkins",
                   style: TextStyle(
                     color: Colors.black,
-                    fontSize: 16.0,
+                    fontSize: 14.0,
                     fontWeight: FontWeight.w600,
                   ),
                 ),
@@ -47,7 +47,7 @@ class HomeHeaderWidget extends StatelessWidget {
                 "Location",
                 style: TextStyle(
                   color: grey,
-                  fontSize: 14.0,
+                  fontSize: 12.0,
                   fontWeight: FontWeight.w400,
                 ),
               ),
@@ -55,7 +55,7 @@ class HomeHeaderWidget extends StatelessWidget {
                 "New York, NY",
                 style: TextStyle(
                   color: Colors.black,
-                  fontSize: 16.0,
+                  fontSize: 14.0,
                   fontWeight: FontWeight.w600,
                 ),
               ),
